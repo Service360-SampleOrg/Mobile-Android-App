@@ -1,0 +1,14 @@
+' Mobile-Android-App
+@startuml
+actor Customer
+
+node "Mobile-Android-App" as "MobileAndroidApp" {
+}
+
+node MobileAPI {
+}
+
+Customer --> MobileAndroidApp
+MobileAndroidApp --> MobileAPI
+
+@enduml
