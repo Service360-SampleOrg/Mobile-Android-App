@@ -10,3 +10,7 @@ MobileTeam|Tier1|Prod|Mobile,Orders, Customers, Payments, Catalog
 ##### Tech
 
 - Kotlin: implementation
+
+## Release
+
+Build an application and submit to google store. Easy! (not really) 
